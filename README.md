@@ -18,7 +18,7 @@
 
 - I’m currently learning **Flutter Programming, Frontend Web and Backend Developer**
 
-- How to reach me **agamsurya77@gmail.com**
+- How to reach me **agamsurya2001@gmail.com**
 - Or **mirzahaqiqi04@gmail.com**
 
 
